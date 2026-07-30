@@ -1,20 +1,6 @@
 ````markdown
 # 🐍 Python Programming Repository
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
-
-**A complete Python learning repository from Beginner to Advanced, including Data Science and Machine Learning.**
-
-</div>
-
----
-
-# 📖 About
-
 This repository documents my journey of learning **Python Programming** from the fundamentals to advanced concepts and eventually into **Data Science, Machine Learning, and Artificial Intelligence**.
 
 Each topic contains:
